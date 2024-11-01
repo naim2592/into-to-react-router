@@ -1,0 +1,8 @@
+nav a{
+    margin-right:20px ;
+}
+nav a.active{
+     background: pink;
+     padding: 10px;
+     border-radius: 10px;
+}
